@@ -1,2 +1,7 @@
-# cudac_practice
-This repository contains resources for the book CUDA C Professional Programming
+## How to run
+
+To run the program, execute the following command in your terminal.
+
+```shell
+./docker_run.sh
+```
